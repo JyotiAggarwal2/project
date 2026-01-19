@@ -1,0 +1,8 @@
+pandas
+numpy
+yfinance
+scikit-learn
+streamlit
+plotly
+
+# pip install -r requirements.txt
